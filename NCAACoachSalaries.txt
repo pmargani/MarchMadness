@@ -1,0 +1,93 @@
+Mike Krzyzewski	Duke	$8,982,325
+John Calipari	Kentucky	$7,450,000
+Chris Holtmann	Ohio State	$7,149,849
+Bill Self	Kansas	$4,779,877
+Tom Izzo	Michigan State	$3,652,979
+Sean Miller	Arizona	$3,654,853
+Bob Huggins	West Virginia	$3,750,000
+Larry Krystkowiak	Utah	$3,390,000
+John Beilein	Michigan	$3,370,000
+Archie Miller	Indiana	$3,200,000
+Lon Kruger	Oklahoma	$3,100,000
+Shaka Smart	Texas	$3,100,000
+Gregg Marshall	Wichita State	$3,000,000
+Tony Bennett	Virginia	$3,000,000
+Avery Johnson	Alabama	$2,899,497
+Scott Drew	Baylor	$2,865,975
+Frank Martin	South Carolina	$2,850,000
+Brad Underwood	Illinois	$2,755,450
+Buzz Williams	Virginia Tech	$2,750,000
+Mark Turgeon	Maryland	$2,700,915
+Dana Altman	Oregon	$2,700,000
+Cuonzo Martin	Missouri	$2,700,000
+Steve Alford	UCLA	$2,600,000
+Jay Wright	Villanova	$2,585,041
+Mike Anderson	Arkansas	$2,550,000
+Michael White	Florida	$2,537,758
+Bruce Pearl	Auburn	$2,500,000
+Will Wade	LSU	$2,500,000
+Matt Painter	Purdue	$2,478,795
+Mike Brey	Notre Dame	$1,227,910
+Billy Kennedy	Texas A&M	$2,350,000
+Bruce Weber	Kansas State	$2,250,000
+Tim Miles	Nebraska	$2,250,080
+Leonard Hamilton	Florida State	$2,250,000
+Rick Barnes	Tennessee	$2,250,000
+Greg Gard	Wisconsin	$2,250,000
+Fran McCaffery	Iowa	$2,225,000
+Mick Cronin	Cincinnati	$2,217,465
+Ed Cooley	Providence	$2,204,030
+Kevin Keatts	North Carolina State	$2,200,000
+Roy Williams	North Carolina	$2,182,986
+Mark Fox	Georgia	$2,150,000
+Jim Boeheim	Syracuse	$2,151,736
+Ben Howland	Mississippi State	$2,100,000
+Bobby Hurley	Arizona State	$2,100,000
+Andy Kennedy	Mississippi	$2,050,000
+Steve Prohm	Iowa State	$2,000,000
+Wayne Tinkle	Oregon State	$1,966,668
+Richard Pitino	Minnesota	$1,957,753
+Mark Few	Gonzaga	$1,934,104
+Brad Brownell	Clemson	$1,800,000
+Mike Hopkins	Washington	$1,800,004
+Danny Manning	Wake Forest	$1,748,878
+Josh Pastner	Georgia Tech	$1,700,000
+Chris Mack	Xavier	$1,668,930
+Steve Pikiell	Rutgers	$1,600,000
+Jim Larranaga	Miami (Fla.)	$1,526,735
+Chris Beard	Texas Tech	$1,500,000
+Jim Christian	Boston College	$1,463,235
+Chris Collins	Northwestern	$1,434,725
+Tad Boyle	Colorado	$1,420,183
+Ernie Kent	Washington State	$1,400,000
+Greg McDermott	Creighton	$1,326,553
+Mike Rhoades	Virginia Commonwealth	$1,200,000
+Wyking Jones	California	$1,137,500
+Mike Boynton	Oklahoma State	$1,010,870
+David Padgett	Louisville	$800,000
+Kermit Davis	Middle Tennessee	$750,000
+Brian Dutcher	San Diego State	$755,424
+Tim Cluess	Iona	$511,145
+Will Brown	Albany	$362,000
+Joe Dooley	Florida Gulf Coast	$350,000
+T.J. Otzelberger	South Dakota State	$325,000
+Kyle Keller	Stephen F. Austin	$301,000
+Mike Davis	Texas Southern	$250,000
+Chris Jans	New Mexico State	$250,000
+?	Howard	$3,400,000
+?	VCU	$1,700,000
+?	UConn	$2,750,000
+?	TCU	$4,300,000
+?	Boise State	$900,000
+?	Houston	$3,000,000
+?	Miami	$1,500,000
+?	Drake	$334,000
+?	Kent State	$285,000
+?	Memphis	$2,750,000
+?	Louisiana	$3,000,000
+?	Montana State	$547,000
+?	USC	$2,200,000
+?	Marquette	$1,200,000
+?	Vermont	$365,000
+?	Charleston	$600,000
+?	NC State	$3,340,000
